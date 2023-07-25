@@ -1,5 +1,4 @@
 -- Keybind to open for pc is "command" -> " , "
--- Made by XNEO
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Welcome to the Emote GUI!",
